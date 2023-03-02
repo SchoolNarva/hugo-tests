@@ -1,0 +1,2 @@
+# hugo-tests
+test-deployhugo
